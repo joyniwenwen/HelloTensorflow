@@ -16,6 +16,7 @@ import org.tensorflow.types.UInt8;
 
 /** Sample use of the TensorFlow Java API to label images using a pre-trained model. */
 public class HelloTensorflow {
+    // Add comment
     private static void printUsage(PrintStream s) {
         final String url =
                 "https://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip";
