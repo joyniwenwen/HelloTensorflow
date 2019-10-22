@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libtensorflow_jni-cpu-darwin-x86_64-1.13">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/libtensorflow_jni-cpu-darwin-x86_64-1.13.1" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/libtensorflow_jni-cpu-darwin-x86_64-1.13.1" />
+    </SOURCES>
+  </library>
+</component>
